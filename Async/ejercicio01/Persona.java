@@ -1,4 +1,4 @@
-package async.ejercicio02;
+package async.ejercicio01;
 
 /**
  * La clase {@code Persona} representa a una persona con un nombre y un apellido.

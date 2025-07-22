@@ -1,7 +1,7 @@
 package async.ejercicio02;
 
 /**
- * Clase Main
+ * Instrucción: Complete las instrucciones dentro de los comentarios de la función main
  *  
  * @author Allan Avendaño
  * @version 1.0
@@ -10,7 +10,7 @@ package async.ejercicio02;
 public class Main {
     
     /**
-     * Complete las instrucciones dentro de los comentarios de la función main
+     * Función main
      *
      * @param args[] argumentos para ejecutar la función
      * @return void
